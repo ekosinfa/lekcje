@@ -1,3 +1,3 @@
 lekcja-4-14092014
 ==========
-brak tematu
+Aktualizujemy informacjie na stronie szkoły.
