@@ -1,5 +1,5 @@
 lekcja-5-21102014
 ==========
-brak tematu
+Tworzenie tabel w bazach danych i wypelnianie ich danymi
 
-sqlzoo.net
+LINK DO CWICZEN : http://sqlzoo.net
