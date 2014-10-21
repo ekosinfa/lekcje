@@ -1,0 +1,3 @@
+int - liczby naturalne
+varchar - tekst krótki np. imię, nazwisko
+text - tekst dłuższy np. wpis z bloga
