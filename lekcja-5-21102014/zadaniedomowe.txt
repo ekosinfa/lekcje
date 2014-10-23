@@ -1,1 +1,9 @@
-DO UZUPELNIENA PRZEZ MARCINA
+Do waszych baz danych dodałem tabele City Country i CountryLanguage.
+Napiszcie zapytania select i podajcie ich wyniki, które pokaża:
+Nazwy dziesięciu największych miast posortowanych po populacji (wskazówka: ORDER BY, LIMIT)
+Ilość państw w tabeli (COUNT)
+Nazwy miast zaczynających się na "Kal" (LIKE)
+Ilość krajów w Europie Zachodniej
+Spróbujcie zrobić do soboty wieczorem (No chyba że wyjeżdżacie, miłych wakacji).
+Jak będą problemy (a będą bo nie zrobiliśmy tego wszystkiego), to tu macie link do pomocy:
+http://zetcode.com/databases/mysqltutorial/quick/
