@@ -5,5 +5,5 @@ portal z notatkami
 [trudne]test/ankieta +opracowanie danych
 quiz
 [trudne]narzedzie do sprawdzania kodu
-
-
+program do zamawiania obiadów
+formularz wpisujcy dane do tabeli
