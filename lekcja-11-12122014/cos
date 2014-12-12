@@ -1,0 +1,8 @@
+<?php - rozpoczęcie kodu PHP
+?> - zakończenie kodu PHP
+echo 'napis'; - wypisuje tekst
+print 'napis'; - wypisuje tekst
+$zmienna = 'tekst'; - zmienna z tekstem
+echo $zmienna - wypisuje tekst ze zmiennej - nie dajemy apostrofów!!!
+echo "$zmienna" - tak samo jak wyżej, ale z "" - dzięki nim można tam dać kod
+KAŻDĄ INSTRUKCJĘ KOŃCZYMY ŚREDNIKIEM - ;
