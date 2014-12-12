@@ -5,4 +5,25 @@ print 'napis'; - wypisuje tekst
 $zmienna = 'tekst'; - zmienna z tekstem
 echo $zmienna - wypisuje tekst ze zmiennej - nie dajemy apostrofów!!!
 echo "$zmienna" - tak samo jak wyżej, ale z "" - dzięki nim można tam dać kod
+$zmienna = '8' - zmienna z liczbą
+ZNAKI DZIAŁAŃ:
+  + - dodawanie
+  - - odejmowanie
+  / - dzielenie
+  * - mnożenie
+echo 'Wynik: '.4*2 - wyświetli [Wynik: 8]
+. - łącznik
+\r\n - enter
+|---
+if($cos == $cos2){                               - w nawiasie () dajemy co ma być prawdziwe jeśli ma się wykonać
+to co ma się stać jak zmienne są równe
+}else{
+to co ma się wykonać jeśli zmienne nie są równe} - instrukcja warunkowa
+ZNAKI PORÓWNAŃ:
+  == - porównanie
+  < - 1 mniejsza od 2
+  > - 1 większa od 2
+  <= - 1 mniejsza lub równa 2
+  >= - 1 większa lub równa 2
+  != - różne
 KAŻDĄ INSTRUKCJĘ KOŃCZYMY ŚREDNIKIEM - ;
